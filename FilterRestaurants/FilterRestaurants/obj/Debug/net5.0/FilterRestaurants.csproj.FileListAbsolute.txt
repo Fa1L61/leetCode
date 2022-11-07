@@ -1,0 +1,16 @@
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.exe
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.deps.json
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.runtimeconfig.json
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.runtimeconfig.dev.json
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.dll
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\ref\FilterRestaurants.dll
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\bin\Debug\net5.0\FilterRestaurants.pdb
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.csproj.AssemblyReference.cache
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.AssemblyInfoInputs.cache
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.AssemblyInfo.cs
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.dll
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\ref\FilterRestaurants.dll
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.pdb
+C:\Users\fa1l7\source\repos\FilterRestaurants\FilterRestaurants\obj\Debug\net5.0\FilterRestaurants.genruntimeconfig.cache
