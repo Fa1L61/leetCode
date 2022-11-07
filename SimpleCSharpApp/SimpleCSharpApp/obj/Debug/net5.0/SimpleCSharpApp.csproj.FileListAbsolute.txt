@@ -1,0 +1,16 @@
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.exe
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.deps.json
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.dev.json
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.dll
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\ref\SimpleCSharpApp.dll
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.pdb
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csproj.AssemblyReference.cache
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.dll
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\ref\SimpleCSharpApp.dll
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.pdb
+C:\Users\fa1l7\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.genruntimeconfig.cache
