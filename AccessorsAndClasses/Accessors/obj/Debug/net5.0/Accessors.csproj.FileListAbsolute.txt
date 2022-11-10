@@ -1,0 +1,16 @@
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.exe
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.deps.json
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.runtimeconfig.json
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.runtimeconfig.dev.json
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.dll
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\ref\Accessors.dll
+C:\Users\fa1l7\source\repos\Accessors\Accessors\bin\Debug\net5.0\Accessors.pdb
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.csproj.AssemblyReference.cache
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.AssemblyInfoInputs.cache
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.AssemblyInfo.cs
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.csproj.CoreCompileInputs.cache
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.dll
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\ref\Accessors.dll
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.pdb
+C:\Users\fa1l7\source\repos\Accessors\Accessors\obj\Debug\net5.0\Accessors.genruntimeconfig.cache
